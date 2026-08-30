@@ -146,7 +146,7 @@ function Index() {
             another person's name without our consent, and the company's answer
             has been to ask for more money.
           </p>
-          <div className="mt-9 flex flex-wrap gap-px bg-rule">
+          <div className="mt-9 inline-flex flex-wrap gap-px bg-rule">
             {[
               ["Paid in full", "Sept 2025"],
               ["Vehicle received", "Never"],
