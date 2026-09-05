@@ -175,7 +175,7 @@ function Index() {
             loading="lazy"
             width={768}
             height={768}
-            className="w-full border border-rule bg-card object-cover grayscale"
+            className="w-full border border-rule bg-card object-cover"
           />
           <div>
             <h3 className="font-serif text-3xl font-semibold">Tom Tanaka</h3>
@@ -215,7 +215,7 @@ function Index() {
               loading="lazy"
               width={768}
               height={708}
-              className="w-full border border-rule bg-card object-cover grayscale"
+              className="w-full border border-rule bg-card object-cover"
             />
           </div>
           <div className="md:order-1">
