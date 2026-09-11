@@ -127,7 +127,7 @@ function Index() {
           alt="Aerial view of a vehicle carrier ship berthed alongside thousands of cars staged at an export port"
           width={1920}
           height={1440}
-          className="h-[36vw] max-h-[560px] min-h-[240px] w-full object-cover grayscale"
+          className="h-[36vw] max-h-[560px] min-h-[240px] w-full object-cover"
         />
       </div>
 
